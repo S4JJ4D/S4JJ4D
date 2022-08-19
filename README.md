@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- [https://s4jj4d.github.io/](https://s4jj4d.github.io/)
 
 <!---
-S4JJ4D/S4JJ4D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Add pgp using github built-in feature or add it to (https://s4jj4d.github.io/)
 --->
